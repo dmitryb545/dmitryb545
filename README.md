@@ -1,5 +1,7 @@
 *Software Developer. Tech Geek. Musician. Photographer.*
+
 Born in Bratsk (Irkutsk State), move to Moscow and relocation from Russia.
+
 ### Tech Skillz
 
 <p align="left">
